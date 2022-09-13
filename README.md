@@ -1,6 +1,6 @@
 # autobackup_scp
 Description
-script will backup the postgresql database
-store dailybackup in a specified directory with current date
+script will backup the postgresql database<br>
+store dailybackup in a specified directory with current date<br>
 Copy bcakup to remote server (Recommended PP Key Athentication more secure instead of sshpass )
 Remove backup older than 3 days in 
