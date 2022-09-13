@@ -7,5 +7,5 @@ However manually installed dhis2 can benefit from this.<br>
 3. Copy backup to remote server (Recommended PP Key Athentication more secure instead of sshpass )<br>
    <bold>Extended</bold> <a href="https://github.com/bobjolliffe/dhis2-tools-ng/blob/master/docs/securing_base.md">Secure your server Setup Key Athentication</a><br>
 4. Remove backup older than 3 days<br>
-5. Change the access permission of files to user accordingly.
-6. Edit crontab 54 23 * * * bash /path/of/script.sh
+5. Change the access permission of files to user accordingly.<br>
+6. Edit crontab 54 23 * * * bash /path/of/script.sh (look into date set accordingly mine at 11:54 pm)
